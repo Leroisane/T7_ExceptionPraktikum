@@ -2,9 +2,6 @@ package AkademiSepakbola;
 
 
 /**
- * Pemain.java
- * -----------
- * Tujuan:
  * Class ini merepresentasikan seorang pemain sepak bola dengan atribut nama, usia,
  * dan status cedera. Terdapat metode untuk mengevaluasi kelayakan pemain.
  *

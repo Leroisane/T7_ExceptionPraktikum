@@ -2,9 +2,6 @@ package AkademiSepakbola;
 
 
 /**
- * PemainTidakMemenuhiSyaratException.java
- * ---------------------------------------
- * Tujuan:
  * Class ini mendefinisikan sebuah custom exception yang spesifik untuk kasus di mana
  * seorang pemain tidak memenuhi syarat untuk akademi sepak bola.
  * Exception ini akan dilemparkan jika usia pemain di luar rentang yang diizinkan

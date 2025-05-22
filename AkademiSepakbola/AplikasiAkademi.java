@@ -1,9 +1,6 @@
 package AkademiSepakbola;
 
 /**
- * AplikasiAkademi.java
- * --------------------
- * Tujuan:
  * Class utama (main class) untuk menjalankan simulasi pendaftaran pemain ke akademi
  * dan mendemonstrasikan penanganan exception.
  *
